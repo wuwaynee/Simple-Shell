@@ -26,7 +26,7 @@ A custom command-line shell implemented in C, designed to mimic basic Unix shell
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Simple-Shell.git
+   git clone https://github.com/wuwaynee/Simple-Shell.git
    cd Simple-Shell
 2. Build the program:
    make 
