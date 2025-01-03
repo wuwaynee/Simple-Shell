@@ -38,4 +38,3 @@ A custom command-line shell implemented in C, designed to mimic basic Unix shell
 ## Notes
 - Replay only supports indexes within 1-16.
 - Input errors (e.g., invalid pipeline symbols) might not produce detailed error messages.
-
